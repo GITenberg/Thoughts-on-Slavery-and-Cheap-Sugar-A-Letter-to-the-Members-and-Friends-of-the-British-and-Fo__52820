@@ -1,5 +1,8 @@
 _repo: Thoughts-on-Slavery-and-Cheap-Sugar-A-Letter-to-the-Members-and-Friends-of-the-British-and-Fo__52820
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ritchie, J. Ewing (James Ewing)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '34770'
     url: http://www.gutenberg.org/2009/agents/34770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52820#Thoughts-on-Slavery-and-Cheap-Sugar-A-Letter-to-the-Members-and-Friends-of-the-British-and-Fo_
 gutenberg_issued: '2016-08-16'
 gutenberg_type: Text
 identifiers:
